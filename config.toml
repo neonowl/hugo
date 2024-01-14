@@ -1,6 +1,4 @@
 baseURL = "https://gnuengineer.com/"
 languageCode = "en-us"
-title = "GNU Engineer Notes"
+title = "GNU Engineer Notes, a blog by Jeremy Chandler Van Doren"
 theme = "hugo-bootstrap-5"
-[params]
-  subtitle = 'a blog by Jeremy Chandler Van Doren'
