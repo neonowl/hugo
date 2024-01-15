@@ -1,6 +1,6 @@
 ---
 title: 'Dedication to Adam Douglas Conrad'
-date: 2023-01-14T16:20:00+01:00
+date: 2024-01-14T16:20:00+01:00
 draft: false
 ---
 
