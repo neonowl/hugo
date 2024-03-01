@@ -14,16 +14,6 @@ When Adam died in January 2021 from Lymphoma, I learned the harsh lesson that ti
 
 On one such taco-licious visit to ATX, while discussing our lives as adults with tech jobs, Adam casually asked why I hadn't become a "real nerd." Startled, I asked what he meant. To Adam, real nerd meant a software developer, computer engineer, or possibly a grumpy systems administrator as he'd been when we met decades earlier. His question stunned me because he was right -- I had been on a path to true nerdery, but something had gone wrong. Or... not wrong, just... different in ways that were mildly unsettling at the time.
 
-To make a long story long, I couldn't answer Adam's question, nor could I forget it. Unpacking how and why I'd ended up in a customer support role for a large corporation instead of any number of other nerdy possibilities inevitably led me to where I am now--a stay at home dad with a Master's Degree in Systems Engineering. I owe Adam an immense debt of gratitude. I miss him every day. Sometimes I still talk to him, but the quiet voice that answers is my own. Yet I find that I am not afraid of death or its unknowable afterward because I'm confident that when I finally arrive at that station, Adam will be there to greet me with a hug and a very long list of everything I need to know to not suck at being dead.
+To make a long story long, I couldn't answer Adam's question, nor could I forget it. Unpacking how and why I'd ended up in a customer support role for a large corporation instead of any number of other nerdy (or geeky, or freaky) possibilities inevitably led me to where I am now--a stay at home dad with a Master's Degree in Systems Engineering. I owe Adam an immense debt of gratitude. I miss him every day. Sometimes I still talk to him, but the quiet voice that answers is my own. Yet I find that I am not afraid of death or its unknowable afterward because I'm confident that when I finally arrive at that station, Adam will be there to greet me with a hug and a very long list of everything I need to know to not suck at being dead.
 
-Also, since I can no longer repay Adam for the attention, wit, and wisdom he bestowed on me as a budding young nerd, I shall pay it forward by promoting and supporting free software in his name.
-
-It's turtles all the way down, buddy. Let's kick some mother-fucking surveillance-capitalist distraction-ware bullshit in its god-damned teeth.
-
-To Tim, Bill, and the rest of the folks way up high in their boss high-chairs--y'all are ok, but the times they done changed decades ago. It's high time we recognize the emergent effects of those changes all around us and stop monopolistically co-opting or suppressing them for the sake of the shareholders and guaranteed 5% growth year after year.
-
-We can do better for each other and the world.
-
-Peace.
-
--jerm
+Since I can no longer repay him for the attention, wit, and wisdom he bestowed on me as a budding young nerd, I shall pay it forward by promoting and supporting free software in his name.
