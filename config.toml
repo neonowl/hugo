@@ -1,4 +1,4 @@
-baseURL = "https://gnuengineer.com/"
+baseURL = "https://neonowl.social/"
 languageCode = "en-us"
-title = "GNU Engineer Notes, a blog by Jeremy Chandler Van Doren"
-theme = "hugo-bootstrap-5"
+title = "neonowl.net social club"
+theme = "hugo-split-theme"
