@@ -1,4 +1,46 @@
-baseURL = "https://neonowl.social/"
-languageCode = "en-us"
-title = "neonowl.net social club"
+# Site settings
+baseURL = "https://neonowl.social"
+languageCode = "en-US"
+title = "Tuesday Night Social Club"
 theme = "hugo-split-theme"
+disableKinds = ["section", "taxonomy", "RSS", "sitemap"]
+
+# Local preview mode
+relativeURLs = true
+uglyURLs = true
+
+# Enter your tracking code to enable Google Analytics
+googleAnalytics = ""
+
+# Copyright
+copyright = "&copy;2024 neonowl.net"
+
+[params]
+
+  # Metadata for search engines and social sharing
+  author = "Jeremy Chandler Van Doren"
+  description = "Home of the Tuesday Night Social Club"
+
+  # Favicon
+  favicon = "favicon.ico"
+
+  # Section - Visual
+  [params.visual]
+
+    # Image
+    [params.visual.image]
+      enable = true
+      file = "images/background.jpg"
+      position = "center center"
+
+    # Video
+    [params.visual.video]
+      enable = false
+      mute = true
+      file = "videos/background.mp4"
+      # youtubeId = "dk9uNWPP7EA"
+
+  # The original template is released under the Creative Commons Attribution 3.0 License.
+  # Please keep the original attribution link when using for your own project.
+  # If you'd like to use the template without the attribution, you can check out
+  # the license option via the template author's website: https://onepagelove.com/split
